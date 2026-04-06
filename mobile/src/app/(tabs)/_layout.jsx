@@ -6,7 +6,6 @@ import {
   VectorIcon,
 } from "expo-router/unstable-native-tabs";
 import Ionicons from "@expo/vector-icons/Ionicons";
-// import Ionicons from "@expo/vector-icons/Ionicons";
 import { useEffect } from "react";
 import { useLanguageStore } from "@/utils/language/store";
 import { useTranslation } from "@/utils/language/useTranslation";
